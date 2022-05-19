@@ -1,1 +1,1 @@
-my directory me
+Some text for this read me
